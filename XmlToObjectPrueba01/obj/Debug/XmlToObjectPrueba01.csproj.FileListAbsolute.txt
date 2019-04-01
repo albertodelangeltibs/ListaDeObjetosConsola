@@ -1,0 +1,6 @@
+C:\Users\Tibs - CFCPTJ2\Documents\Visual Studio 2012\Projects\Console\XmlToObjectPrueba01\XmlToObjectPrueba01\bin\Debug\XmlToObjectPrueba01.exe.config
+C:\Users\Tibs - CFCPTJ2\Documents\Visual Studio 2012\Projects\Console\XmlToObjectPrueba01\XmlToObjectPrueba01\bin\Debug\XmlToObjectPrueba01.exe
+C:\Users\Tibs - CFCPTJ2\Documents\Visual Studio 2012\Projects\Console\XmlToObjectPrueba01\XmlToObjectPrueba01\bin\Debug\XmlToObjectPrueba01.pdb
+C:\Users\Tibs - CFCPTJ2\Documents\Visual Studio 2012\Projects\Console\XmlToObjectPrueba01\XmlToObjectPrueba01\obj\Debug\XmlToObjectPrueba01.csprojResolveAssemblyReference.cache
+C:\Users\Tibs - CFCPTJ2\Documents\Visual Studio 2012\Projects\Console\XmlToObjectPrueba01\XmlToObjectPrueba01\obj\Debug\XmlToObjectPrueba01.exe
+C:\Users\Tibs - CFCPTJ2\Documents\Visual Studio 2012\Projects\Console\XmlToObjectPrueba01\XmlToObjectPrueba01\obj\Debug\XmlToObjectPrueba01.pdb
