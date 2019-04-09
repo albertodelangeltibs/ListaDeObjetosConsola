@@ -1,4 +1,5 @@
 <Facturas>
+<Propiedades>
   <PropiedadesFactura>
     <Id>6</Id>
     <IdGeneral>8</IdGeneral>
@@ -1128,4 +1129,5 @@
     <FolioABA>124745</FolioABA>
     <Addenda>&lt;AddendaEdoCta&gt;&lt;Caratula rSaldoInicial="-780799.56" rPrimaCedida="1741986.06" rComision="0.00" rSiniestros="1.00" rSalvamentos="0.00" rExhibicionPMD="0.00" rAjustes="0.00" rPagosCobrosSaldos="0.00" rRemesas="0.00" rSaldoFinal="-2522784.62" /&gt;&lt;Gastos&gt;&lt;Gasto Importe="1741986.06" ValorUnitario="1741986.06" Descripcion="Prima Cedida" ClaveUnidad="E48" Cantidad="1" ClaveProdServ="84131506" Mes="Dic" /&gt;&lt;/Gastos&gt;&lt;Erogaciones&gt;&lt;Erogacion Contrato="FACULTATIVO-2018- 10032022" Ramo="3" SubRamo="0" Poliza="0" NoReclamacionSiniestro="0" PrimaCedida="1741986.06" Retencion="0.00" SalvamentosPagados="0.00" RecuperacionesSubrogaciones="0.00" Exhibicion="0.00" AjustePrima="0.00" PrimaReinstalacion="0.00" /&gt;&lt;/Erogaciones&gt;&lt;/AddendaEdoCta&gt;</Addenda>
   </PropiedadesFactura>
+  </Propiedades>
 </Facturas>

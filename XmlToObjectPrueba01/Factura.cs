@@ -7,11 +7,9 @@ using System.Xml.Serialization;
 
 namespace XmlToObjectPrueba01
 {
-    public class Factura
+    public class Facturas
     {
-        [XmlArray("PropiedadesFactura")]
-        public List<PropiedadesFactura> Facturas { get; set; }
+        public List<PropiedadesFactura> Propiedades { get; set; }
 
-        //public PropiedadesFactura[] Factura { get; set; }
     }
 }
